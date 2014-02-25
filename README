@@ -1,0 +1,14 @@
+The refresher
+
+Runs on arduino leonardo compatible boards.
+In my case it's a cheap-o chinese knock-off mini Leo compatible board.
+
+Checks a switch whether to do Safari refresh (CMD+R) or refresh for any other browser (F5)
+
+holds key (or combination) for 100mS, then realeases and repeats after eg. 5000mS.
+
+that's it.
+
+Browser automation done in hardware, because why not. :D
+
+~Robotto
